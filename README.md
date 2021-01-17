@@ -1,1 +1,2 @@
-# Cursos de Análise de Dados em Python oferecido pelo LABHacker - Câmara dos Deputados
+# Cursos de Análise de Dados em Python
+ - Oferecido pelo LABHacker - Câmara dos Deputados
